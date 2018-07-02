@@ -9,6 +9,7 @@
   "author": "WebDesign Master",
   "license": "ISC",
   "devDependencies": {
+    "barba.js": "^1.0.0",
     "browser-sync": "^2.24.5",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^5.0.0",
